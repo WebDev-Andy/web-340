@@ -1,2 +1,6 @@
-# web-340
-Repo for class web-340 NodeJS
+<h1>WEB 340 Node.js</h1>
+<h2>Contributors</h2>
+<ul>
+    <li>Professor Krasso</li>
+    <li>Andrew Britt</li>
+</ul>
